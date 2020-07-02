@@ -6,6 +6,9 @@ Ini Adalah Tugas 10 web Menggunakan CRUD
 #Saya Menggunkan bahasa PHP dan Javascript
 #Table Produk Menggunakan Database PhpMyAdmin
 
+![Tabel Produk2](https://user-images.githubusercontent.com/40534274/86369311-70ba3300-bca8-11ea-9e1e-af6a86a46f7f.JPG)
+
+
 <?php
  $server = "localhost";
  $user = "root";
